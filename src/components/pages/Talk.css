@@ -1,12 +1,10 @@
 
 .container{
     min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   
     flex-direction: column;
-    background-color: #121212;
-    color: #FFF;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     padding: 14px;
   }
   
@@ -43,12 +41,12 @@
     border-radius: 4px;
     border: 0;
     cursor: pointer;
-    background-color: #0fdbff;
+    background-color: #ff0f0f;
     font-size: 18px;
     transition: background-color, transform 0.8s;
   }
   
   .button:hover{
-    background-color: #0fe3ff;
+    background-color: #ff4b0fcd;
     transform: scale(1.01);
   }

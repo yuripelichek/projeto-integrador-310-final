@@ -63,7 +63,7 @@ export default function Services() {
         </div>
         <div class="col-md-2">sex 15h</div>
       </div>
-      <p></p>
+    <p></p>
       <div class="row">
         <div class="col-md-2">
         Reciclável

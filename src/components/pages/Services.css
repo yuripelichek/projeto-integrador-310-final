@@ -5,6 +5,17 @@
   font-family: 'PT Sans', sans-serif;
 }
 
+.container{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(200, 189, 189);
+  color: rgb(0, 0, 0);
+  padding: 14px;
+}
+
 .home,
 .services,
 .recicly,
