@@ -26,7 +26,7 @@ const SignUp = () => {
       email: email
     }
 
-    emailjs.send("service_x8mlabg", "template_tp47tv1", templateParams, "c6vJGK-F5pxG9gO6c")
+    emailjs.send("service_p3klaui", "template_w3eeo4h", templateParams, "cpR8Z65fEmQP6dlGA")
     .then((response) => {
       console.log("EMAIL ENVIADO", response.status, response.text)
       setName('')
